@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class login {
+public class basicLogin {
 String name;
 String password;
 
